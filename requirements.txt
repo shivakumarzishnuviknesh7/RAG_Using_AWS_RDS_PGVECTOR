@@ -1,0 +1,11 @@
+# backend requirements
+fastapi
+uvicorn[standard]
+pg8000>=1.31.2
+python-dotenv>=1.0.1
+openai>=1.40.0
+tqdm
+
+# frontend requirements
+streamlit
+requests
